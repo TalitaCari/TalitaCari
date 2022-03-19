@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Talita Cari</h1>
 <h3 align="center">I am passionate about finance, data and technology</h3>
 
-- 🔭 I’m currently working on data analysis and visualization tools
+- 🔭 I’m currently working on **data analysis and visualization tools**
 
 - 🌱 I’m currently learning **SQL, Power Bi**
 
@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **talita.cari@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/talita-cari/](https://www.linkedin.com/in/talita-cari/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/talita-cari/](https://www.linkedin.com/in/talita-cari/) and 
+- [https://talitacari.wixsite.com/portfolio]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
