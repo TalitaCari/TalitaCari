@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Talita Cari</h1>
 <h3 align="center">I am passionate about finance, data and technology</h3>
 
-- 🔭 I’m currently working on **data analysis and visualization tools**
+<h1 align="center">Hi 👋, I'm Talita Cari</h1>
+<h3 align="center">I am passionate about finance, data and technology</h3>
+
+- 🔭 I’m currently working on [data analysis and visualization tools](https://talitacari.wixsite.com/portfolio)
 
 - 🌱 I’m currently learning **SQL, Power Bi**
 
@@ -11,13 +14,11 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/talita-cari/](https://www.linkedin.com/in/talita-cari/)
 
-- ⚡ Fun fact **finance and technology complement each other**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/talita-cari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talita-cari/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/talita.cari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/talita.cari" height="30" width="40" /></a>
-<a href="https://instagram.com/caritalita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@caritalita" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/talita-cari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talita-cari/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/talita.cari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/talita.cari" height="30" width="40" /></a>
+<a href="https://instagram.com/@caritalita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@caritalita" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
