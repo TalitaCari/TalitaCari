@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **talita.cari@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/talita-cari/](https://www.linkedin.com/in/talita-cari/) Portfólio:
+- 📄 Know about my experiences [https://www.linkedin.com/in/talita-cari/](https://www.linkedin.com/in/talita-cari/) 
+- Portfólio:
 **https://talitacari.wixsite.com/portfolio**
 
 <h3 align="left">Connect with me:</h3>
