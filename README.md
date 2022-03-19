@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Talita Cari</h1>
-<h3 align="center">I am passionate about finance, data and technology</h3>
 
 <h1 align="center">Hi 👋, I'm Talita Cari</h1>
 <h3 align="center">I am passionate about finance, data and technology</h3>
 
-- 🔭 I’m currently working on [data analysis and visualization tools](https://talitacari.wixsite.com/portfolio)
+- 🔭 I’m currently working on data analysis and visualization tools
 
 - 🌱 I’m currently learning **SQL, Power Bi**
 
